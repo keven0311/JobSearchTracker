@@ -1,9 +1,16 @@
 # JobSearchTracker
 
-    Django:
-        pipenv shell        //creating virtual enviroment for development
-        pipenv install django    //install django and adding django to pipenv
+    Backend:
+        cd into server folder and "npm install"
+        packages:
+            express.js
+            cors
+            nodemon
+            mongoose
+
+        'npm run dev' to start development environment
 
 
-        install packages:
-            pipenv install djangorestframework django-cors-headers
+    Frontend:
+        cd into client folder and "npm install"
+
