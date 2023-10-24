@@ -12,5 +12,6 @@
 
 
     Frontend:
-        cd into client folder and "npm install"
+        client folder created with vite.
 
+        cd into client folder and "npm install"
